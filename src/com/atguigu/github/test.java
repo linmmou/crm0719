@@ -5,7 +5,8 @@ public class test {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 System.out.print("hello,github,hahah");
-System.out.print("hello,github,hahah02");
+System.out.print("hello,github,hahah03");
+System.out.print("hello,github,hah");
 
 	}
 
